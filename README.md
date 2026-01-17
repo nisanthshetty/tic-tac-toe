@@ -24,5 +24,4 @@ A simple and interactive Tic Tac Toe game built using HTML, CSS, and JavaScript.
 4. Click Reset or New Game to restart.
 
 ---
-
-Made with ❤️ by Nisanth Shetty
+ by Nisanth Shetty
